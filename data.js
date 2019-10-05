@@ -1,4 +1,4 @@
-window.audios = [
+window.musics = [
    {
       title: "Arrasta",
       artist: "Glória Groove (Feat. Léo Santana)",
